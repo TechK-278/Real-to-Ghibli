@@ -1,0 +1,10 @@
+torch
+diffusers
+transformers
+accelerate
+peft
+onnxruntime-gpu
+pillow
+flask
+flask-cors
+numpy
